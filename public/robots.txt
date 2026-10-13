@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# The production build adds a Sitemap directive when VITE_SITE_URL or SITE_URL is configured.

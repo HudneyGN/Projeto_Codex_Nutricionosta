@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Set VITE_SITE_URL or SITE_URL during build to emit sitemap.xml with absolute URLs.

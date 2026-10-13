@@ -1,0 +1,213 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - link "mari nutricionista" [ref=e4] [cursor=pointer]:
+      - /url: "#inicio"
+      - generic [ref=e5]: mari
+      - generic [ref=e6]: nutricionista
+    - navigation [ref=e7]:
+      - link "Como funciona" [ref=e8] [cursor=pointer]:
+        - /url: "#como-funciona"
+      - link "Atendimentos" [ref=e9] [cursor=pointer]:
+        - /url: "#atendimentos"
+      - link "Sobre a Mari" [ref=e10] [cursor=pointer]:
+        - /url: "#sobre"
+      - link "Dúvidas" [ref=e11] [cursor=pointer]:
+        - /url: "#duvidas"
+    - link "Agendar consulta" [ref=e12] [cursor=pointer]:
+      - /url: https://wa.me/5500000000000?text=Olá%2C%20quero%20agendar%20minha%20consulta%20nutricional.
+  - main [ref=e18]:
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - paragraph [ref=e21]: Nutrição clínica • presencial e online
+        - heading "Sua alimentação pode ser leve, gostosa e possível de manter." [level=1] [ref=e22]
+        - paragraph [ref=e23]: Acompanhamento nutricional personalizado para cuidar da sua saúde, respeitar sua rotina e construir resultados que façam sentido para você.
+        - generic [ref=e24]:
+          - link "Quero meu acompanhamento" [ref=e25] [cursor=pointer]:
+            - /url: https://wa.me/5500000000000?text=Olá%2C%20quero%20agendar%20minha%20consulta%20nutricional.
+          - link "Conheça o processo" [ref=e31] [cursor=pointer]:
+            - /url: "#como-funciona"
+        - generic [ref=e34]: Plano individual, sem dietas extremas
+      - generic [ref=e37]:
+        - img "Nutricionista em consultório acolhedor" [ref=e38]
+        - generic [ref=e39]:
+          - generic [ref=e40]: Atendimento com escuta
+          - generic [ref=e41]: e estratégia
+    - generic [ref=e42]:
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - paragraph [ref=e45]: Se isso parece familiar
+          - heading "Você não precisa descobrir tudo sozinha." [level=2] [ref=e46]
+        - paragraph [ref=e48]: Quando a alimentação vira mais uma preocupação do dia, o acompanhamento certo traz clareza e um caminho prático para seguir.
+      - generic [ref=e49]:
+        - article [ref=e51]:
+          - generic [ref=e52]: "01"
+          - paragraph [ref=e53]: Já tentou várias dietas e não conseguiu manter.
+        - article [ref=e55]:
+          - generic [ref=e56]: "02"
+          - paragraph [ref=e57]: Sente que come errado mesmo tentando melhorar.
+        - article [ref=e59]:
+          - generic [ref=e60]: "03"
+          - paragraph [ref=e61]: Tem dificuldade em organizar a alimentação na rotina.
+        - article [ref=e63]:
+          - generic [ref=e64]: "04"
+          - paragraph [ref=e65]: Quer emagrecer, mas não sabe por onde começar.
+        - article [ref=e67]:
+          - generic [ref=e68]: "05"
+          - paragraph [ref=e69]: Quer ganhar massa muscular, mas não sabe o que comer.
+        - article [ref=e71]:
+          - generic [ref=e72]: "06"
+          - paragraph [ref=e73]: Sente falta de um plano alimentar para sua realidade.
+        - article [ref=e75]:
+          - generic [ref=e76]: "07"
+          - paragraph [ref=e77]: Está cansado de soluções genéricas da internet.
+    - generic [ref=e79]:
+      - generic [ref=e80]:
+        - img "Mari em seu consultório" [ref=e81]
+        - generic [ref=e82]:
+          - generic [ref=e83]: Escuta
+          - generic [ref=e84]: antes de qualquer plano
+      - generic [ref=e85]:
+        - paragraph [ref=e86]: Prazer, sou a Mari
+        - heading "Nutrição com cuidado para a vida que você vive." [level=2] [ref=e87]
+        - paragraph [ref=e88]: Meu trabalho parte de uma conversa honesta sobre o seu momento, seus hábitos e o que é importante para você. A partir daí, construímos estratégias que respeitam seus gostos, sua rotina e seus objetivos.
+        - paragraph [ref=e89]: Em cada consulta, você encontra acolhimento, orientação clara e autonomia para fazer escolhas melhores todos os dias.
+        - link "Falar com a Mari" [ref=e90] [cursor=pointer]:
+          - /url: https://wa.me/5500000000000?text=Olá%2C%20quero%20agendar%20minha%20consulta%20nutricional.
+    - generic [ref=e93]:
+      - text: ROTINA
+      - generic [ref=e94]:
+        - generic [ref=e95]:
+          - paragraph [ref=e96]: Como funciona
+          - heading "Um acompanhamento feito em parceria com você." [level=2] [ref=e97]
+        - generic [ref=e98]:
+          - article [ref=e100]:
+            - text: "01"
+            - heading "Primeiro contato" [level=3] [ref=e101]
+            - paragraph [ref=e102]: Você chama, tiramos as dúvidas iniciais e encontramos o melhor horário para a consulta.
+          - article [ref=e104]:
+            - text: "02"
+            - heading "Consulta e escuta" [level=3] [ref=e105]
+            - paragraph [ref=e106]: Conversamos sobre rotina, objetivos, histórico e suas preferências alimentares.
+          - article [ref=e108]:
+            - text: "03"
+            - heading "Plano personalizado" [level=3] [ref=e109]
+            - paragraph [ref=e110]: Você recebe uma estratégia alimentar prática e alinhada ao que é possível no seu dia.
+          - article [ref=e112]:
+            - text: "04"
+            - heading "Evolução acompanhada" [level=3] [ref=e113]
+            - paragraph [ref=e114]: Nos retornos, avaliamos o caminho e ajustamos o plano quando necessário.
+    - generic [ref=e116]:
+      - generic [ref=e117]:
+        - paragraph [ref=e118]: O que muda no caminho
+        - heading "Mais direção para cuidar de você todos os dias." [level=2] [ref=e119]
+        - paragraph [ref=e120]: O plano deixa de ser uma lista distante e passa a ser um apoio nas decisões que você toma na vida real.
+        - link "Agendar minha consulta" [ref=e121] [cursor=pointer]:
+          - /url: https://wa.me/5500000000000?text=Olá%2C%20quero%20agendar%20minha%20consulta%20nutricional.
+      - generic [ref=e127]:
+        - paragraph [ref=e129]: Plano alimentar feito para sua rotina
+        - paragraph [ref=e134]: Mais clareza sobre o que comer
+        - paragraph [ref=e139]: Estratégias realistas e sustentáveis
+        - paragraph [ref=e144]: Acompanhamento profissional
+        - paragraph [ref=e149]: Melhora na relação com a comida
+        - paragraph [ref=e154]: Mais saúde, energia e qualidade de vida
+    - generic [ref=e159]:
+      - generic [ref=e160]:
+        - paragraph [ref=e161]: Áreas de atendimento
+        - heading "Para cada fase, uma estratégia que acompanha você." [level=2] [ref=e162]
+      - generic [ref=e163]:
+        - article [ref=e165]:
+          - heading "Emagrecimento saudável" [level=3] [ref=e169]
+          - paragraph [ref=e170]: Orientação individual para construir hábitos consistentes e seguros.
+        - article [ref=e175]:
+          - heading "Ganho de massa muscular" [level=3] [ref=e182]
+          - paragraph [ref=e183]: Orientação individual para construir hábitos consistentes e seguros.
+        - article [ref=e188]:
+          - heading "Reeducação alimentar" [level=3] [ref=e192]
+          - paragraph [ref=e193]: Orientação individual para construir hábitos consistentes e seguros.
+        - article [ref=e198]:
+          - heading "Nutrição esportiva" [level=3] [ref=e202]
+          - paragraph [ref=e203]: Orientação individual para construir hábitos consistentes e seguros.
+        - article [ref=e208]:
+          - heading "Saúde e qualidade de vida" [level=3] [ref=e212]
+          - paragraph [ref=e213]: Orientação individual para construir hábitos consistentes e seguros.
+        - article [ref=e218]:
+          - heading "Rotina organizada" [level=3] [ref=e221]
+          - paragraph [ref=e222]: Para quem quer se alimentar melhor mesmo com os dias cheios.
+    - generic [ref=e227]:
+      - generic [ref=e228]:
+        - paragraph [ref=e229]: O diferencial
+        - heading "Nutrição de verdade precisa caber na sua vida." [level=2] [ref=e230]
+      - generic [ref=e231]:
+        - paragraph [ref=e232]: Você não recebe uma dieta pronta para seguir por alguns dias. Recebe um plano construído com contexto, respeito e atenção ao que funciona para você.
+        - generic [ref=e233]:
+          - generic [ref=e234]: Preferências
+          - generic [ref=e235]: Rotina
+          - generic [ref=e236]: Objetivos
+          - generic [ref=e237]: Dificuldades
+    - generic [ref=e239]:
+      - generic [ref=e240]:
+        - paragraph [ref=e241]: Experiências compartilhadas
+        - heading "Pequenas mudanças que fazem diferença." [level=2] [ref=e242]
+        - paragraph [ref=e243]: Relatos ilustrativos, criados apenas para demonstrar como esta seção pode ser apresentada.
+      - generic [ref=e244]:
+        - article [ref=e246]:
+          - generic [ref=e247]: ★★★★★
+          - blockquote [ref=e248]: “Passei a entender o que combina com a minha rotina. O plano foi simples de seguir e isso mudou minha relação com a alimentação.”
+          - generic [ref=e249]:
+            - generic [ref=e250]: Camila R.
+            - generic [ref=e251]: Acompanhamento nutricional
+        - article [ref=e253]:
+          - generic [ref=e254]: ★★★★★
+          - blockquote [ref=e255]: “A consulta me deu organização. Hoje consigo me alimentar melhor sem sentir que estou vivendo de restrição.”
+          - generic [ref=e256]:
+            - generic [ref=e257]: Rafael M.
+            - generic [ref=e258]: Reeducação alimentar
+        - article [ref=e260]:
+          - generic [ref=e261]: ★★★★★
+          - blockquote [ref=e262]: “Foi bom ter alguém que olhasse para meus treinos e para a minha rotina de trabalho com o mesmo cuidado.”
+          - generic [ref=e263]:
+            - generic [ref=e264]: Lucas A.
+            - generic [ref=e265]: Nutrição esportiva
+    - generic [ref=e267]:
+      - generic [ref=e268]:
+        - paragraph [ref=e269]: Perguntas frequentes
+        - heading "Vamos deixar tudo mais claro." [level=2] [ref=e270]
+        - paragraph [ref=e271]: Se ainda tiver alguma dúvida, fale comigo pelo WhatsApp antes de agendar.
+        - link "Conversar pelo WhatsApp" [ref=e272] [cursor=pointer]:
+          - /url: https://wa.me/5500000000000?text=Olá%2C%20quero%20agendar%20minha%20consulta%20nutricional.
+      - generic [ref=e276]:
+        - generic [ref=e277]:
+          - button "A consulta pode ser online?" [expanded] [ref=e278] [cursor=pointer]
+          - paragraph [ref=e282]: Sim. O atendimento online é feito por videochamada e segue o mesmo cuidado da consulta presencial.
+        - button "O plano alimentar é personalizado?" [ref=e284] [cursor=pointer]
+        - button "Preciso cortar tudo que gosto?" [ref=e288] [cursor=pointer]
+        - button "O acompanhamento serve para emagrecimento?" [ref=e292] [cursor=pointer]
+        - button "Serve para ganho de massa muscular?" [ref=e296] [cursor=pointer]
+        - button "Com que frequência acontecem os retornos?" [ref=e300] [cursor=pointer]
+        - button "Como faço para agendar?" [ref=e304] [cursor=pointer]
+    - generic [ref=e308]:
+      - generic [ref=e309]:
+        - paragraph [ref=e310]: Seu primeiro passo
+        - heading "Sua alimentação não precisa ser complicada." [level=2] [ref=e311]
+        - paragraph [ref=e312]: Com orientação certa, você pode construir uma rotina mais saudável e possível de manter.
+      - link "Agendar minha consulta" [ref=e314] [cursor=pointer]:
+        - /url: https://wa.me/5500000000000?text=Olá%2C%20quero%20agendar%20minha%20consulta%20nutricional.
+  - contentinfo [ref=e320]:
+    - generic [ref=e321]:
+      - link "mari nutricionista" [ref=e322] [cursor=pointer]:
+        - /url: "#inicio"
+        - generic [ref=e323]: mari
+        - generic [ref=e324]: nutricionista
+      - paragraph [ref=e325]: Atendimento nutricional presencial e online, com escuta, estratégia e leveza.
+      - generic [ref=e326]:
+        - link "Sobre a Mari" [ref=e327] [cursor=pointer]:
+          - /url: "#sobre"
+        - link "Atendimentos" [ref=e328] [cursor=pointer]:
+          - /url: "#atendimentos"
+        - link "Dúvidas frequentes" [ref=e329] [cursor=pointer]:
+          - /url: "#duvidas"
+      - link "WhatsApp para agendamentos" [ref=e330] [cursor=pointer]:
+        - /url: https://wa.me/5500000000000?text=Olá%2C%20quero%20agendar%20minha%20consulta%20nutricional.
+    - generic [ref=e333]:
+      - generic [ref=e334]: © 2026 Mari Nutricionista
+      - generic [ref=e335]: "CRN: a definir"

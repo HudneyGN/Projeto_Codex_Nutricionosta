@@ -1,0 +1,10 @@
+[features]
+hooks = true
+
+[[hooks.UserPromptSubmit]]
+
+[[hooks.UserPromptSubmit.hooks]]
+type = "command"
+command = "node .codex/hooks/detect-secrets-prompt.js"
+timeout = 20
+statusMessage = "Verificando secrets no prompt"
